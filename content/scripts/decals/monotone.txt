@@ -1,0 +1,12 @@
+"splat1"
+{
+	"splats/splat1"	"1"
+}
+"splat2"
+{
+	"splats/splat2"	"1"
+}
+"splat3"
+{
+	"splats/splat3"	"1"
+}

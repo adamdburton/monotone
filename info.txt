@@ -1,0 +1,13 @@
+"Gamemode"
+{
+	"name"		"Monotone"
+	"version"	"1.0"
+
+	"author_name"	"_Undefined"
+	"author_email"	"admin@ubs-clan.co.uk"
+	"author_url"	"http://ubs-clan.co.uk"
+	
+	"icon"		""
+	"info"		""
+	"hide"		"0"
+}
